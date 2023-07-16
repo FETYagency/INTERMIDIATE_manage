@@ -19,11 +19,8 @@
 
 body {
   font-family: var(--FF);
-  inline-size: 100dvw;
-  min-block-size: 100dvh;
+  min-block-size: 100vh;
   background: #fff;
-  overflow-inline: hidden;
-  overflow-x: hidden;
 }
 
 header {
@@ -132,6 +129,7 @@ header > .M_nav > a:hover {
 
 .wrapper {
   inline-size: 100%;
+  overflow: hidden;
 }
 
 .introSec {
