@@ -15,6 +15,6 @@
 .DS_Store
 
 # execlude src file
-src/
+public/
 node_modules/
 design/
